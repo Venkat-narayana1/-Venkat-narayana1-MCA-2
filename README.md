@@ -2,25 +2,25 @@
 ============
 
 -------------------     ----------------------------
-Email                       sagivn281117@gmail.com
-Mobile_no                   8500765636
-MyCountry                   India
+- Email                       sagivn281117@gmail.com
+- Mobile_no                   8500765636
+- MyCountry                   India
 -------------------     ----------------------------
 
 Education
 ---------
 
-2019-2022 (expected)
+- 2019-2022 (expected)
 :   **PG ,Computer Science**; R.V.R&J.C COLLEGE OF ENGINEERING
 
    
 
-2016-2019
+- 2016-2019
 :   **BCOM, ComputerS**; Vagdevi Degree College with  CGPA 7.25
 
-2014-2016:**MPC,Intermediate**;Vagdevi junior College with 91.25%
+- 2014-2016:**MPC,Intermediate**;Vagdevi junior College with 91.25%
 
-2013-2014:
+- 2013-2014:
 **STZP HIGH SCHOOL,SSC**;Kotappakonda with 8.7 GPA.
 
    
@@ -30,27 +30,27 @@ Education
 Skills
 -----------
 
--C
--C++
--Java
--Python
--Web Technology
--Git And Github
+- C
+- C++
+- Java
+- Python
+- Web Technology
+- Git And Github
 
 
 Certifications
 --------------------
--Successfully Completed **Computer Networks**in MOOCS
--Successfully Completed **Git and github**in APSSDC
+- Successfully Completed **Computer Networks**in MOOCS
+- Successfully Completed **Git and github**in APSSDC
 
 
 
 Personal Info
 ------------------
-Father Name :Renu Babu Sagi
-DOB         :1999/05/15
-Gender      :Male
-Address     :Guntur
+- Father Name :Renu Babu Sagi
+- DOB         :1999/05/15
+- Gender      :Male
+- Address     :Guntur
 
 
 
