@@ -40,8 +40,9 @@ Skills
 
 Certifications
 --------------------
-- Successfully Completed **Computer Networks**in MOOCS
-- Successfully Completed **Git and github**in APSSDC
+- Successfully Completed **Computer Networks**under MOOCS
+- Successfully Completed **Git and github**under APSSDC
+- Successfully Completed **Internet of Things**under APSSDC
 
 
 
