@@ -16,13 +16,20 @@ Education
    
 
 2016-2019
-:   **BCOM, ComputerS**; Vagdevi Degree College
+:   **BCOM, ComputerS**; Vagdevi Degree College with  CGPA 7.25
+
+2014-2016:**MPC,Intermediate**;Vagdevi junior College with 91.25%
+
+2013-2014:
+**STZP HIGH SCHOOL,SSC**;Kotappakonda with 8.7 GPA.
+
    
 
 
 
 Skills
 -----------
+
 -C
 -C++
 -Java
@@ -34,6 +41,7 @@ Skills
 Certifications
 --------------------
 -Successfully Completed **Computer Networks**in MOOCS
+-Successfully Completed **Git and github**in APSSDC
 
 
 
